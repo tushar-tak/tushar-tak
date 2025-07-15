@@ -77,6 +77,19 @@ graph TD
   </div>
 </div>
 
+<!-- LinkedIn Connect Box (GitHub compatible) -->
+
+<table align="center" width="600" style="border:2px solid #0A66C2; border-radius:12px; background:#F0F6FC; margin: 32px auto 32px auto;">
+  <tr>
+    <td align="center" style="padding: 18px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn Logo" style="vertical-align:middle; margin-right:16px;" />
+      <a href="https://www.linkedin.com/in/tushartak" target="_blank" style="vertical-align:middle;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=350&lines=Connect+with+me+on+LinkedIn!;Let's+grow+our+network+%F0%9F%91%8B" alt="Connect with me on LinkedIn!" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 🔥 GitHub Highlights
 
 <div align="center" style="margin-bottom: 20px;">
@@ -102,5 +115,6 @@ graph TD
   <a href="https://www.linkedin.com/in/tushartak"> <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a>
   <a href="https://github.com/tushar-tak"> <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat&logo=github&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a>
 </p>
+
 
 
