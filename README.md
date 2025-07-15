@@ -49,11 +49,6 @@ graph TD
 ## 🔥 GitHub Highlights
 
 <div align="center" style="margin-bottom: 20px;">
-  <!-- Stats cards in a single row -->
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tushar-tak&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&bg_color=0F172A&title_color=0EA5E9&icon_color=38BDF8&text_color=E2E8F0" height="165" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-tak&layout=compact&theme=blueberry&hide_border=true&bg_color=0F172A&title_color=0EA5E9&text_color=E2E8F0" height="165" alt="Top Languages"/>
-  </div>
   <!-- Trophies with better spacing -->
   <div style="margin-bottom: 20px;">
     <img src="https://github-profile-trophy.vercel.app/?username=tushar-tak&theme=nord&no-frame=true&row=2&column=4&margin-w=15" alt="GitHub Trophies" />
