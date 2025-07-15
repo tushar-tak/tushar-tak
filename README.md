@@ -6,7 +6,7 @@
 
 
 <!-- Minimalist badge links with hover effects -->
-<div align="center" style="margin: 20px 0; top-margin: 40px;">
+<div align="center" style="margin: 20px 0;">
   <a href="https://tushartak.works" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat&logo=firefox&logoColor=38BDF8&labelColor=0F172A" alt="Portfolio" />
   </a>
@@ -20,6 +20,13 @@
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="GitHub" />
   </a>
 </div>
+
+<!-- LinkedIn animated typing banner -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/tushartak" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Connect+with+me+on+LinkedIn!;Let's+grow+our+network+%F0%9F%91%8B" alt="Connect with me on LinkedIn!" />
+  </a>
+</p>
 
 <!-- Modern view counter -->
 <p align="center">
