@@ -64,22 +64,6 @@ graph TD
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-tak&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-0F172A?logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/-TypeScript-0F172A?logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/-React-0F172A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Next.js-0F172A?logo=nextdotjs&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/-Node.js-0F172A?logo=nodedotjs&logoColor=83CD29" />
-  <img src="https://img.shields.io/badge/-Express-0F172A?logo=express&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/-MongoDB-0F172A?logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/-MySQL-0F172A?logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/-AWS-0F172A?logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/-Docker-0F172A?logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/-Git-0F172A?logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/-Linux-0F172A?logo=linux&logoColor=FCC624" />
-</div>
 
 ## 🌐 Connect With Me
 
