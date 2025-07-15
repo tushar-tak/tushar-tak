@@ -6,7 +6,7 @@
 
 
 <!-- Minimalist badge links with hover effects -->
-<div align="center" style="margin: 20px 0;">
+<div align="center" style="margin: 20px 0; top-margin: 20px;">
   <a href="https://tushartak.works" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat&logo=firefox&logoColor=38BDF8&labelColor=0F172A" alt="Portfolio" />
   </a>
