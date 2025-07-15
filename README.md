@@ -87,9 +87,4 @@ graph TD
   <a href="https://github.com/tushar-tak"> <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat&logo=github&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a>
 </p>
 
-<!-- Inspirational Quote -->
-<div align="center" style="margin-top:30px">
-  <blockquote>
-    <em>"An idiot admires complexity. A genius admires simplicity" – Terry A. Davis</em>
-  </blockquote>
-</div>
+
