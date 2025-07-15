@@ -52,30 +52,7 @@ graph TD
 
 🚀 Always learning and exploring new technologies in the world of software engineering.
 
-<!-- LinkedIn Connect Animated Box -->
-<div align="center" style="margin: 32px 0;">
-  <div style="display: inline-block; padding: 18px 32px; border-radius: 18px; background: #0F172A; position: relative; overflow: hidden;">
-    <div style="position: absolute; inset: 0; z-index: 0; pointer-events: none;">
-      <svg width="100%" height="100%" style="position:absolute;top:0;left:0;z-index:0;">
-        <rect x="0" y="0" width="100%" height="100%" rx="18" fill="none" stroke="url(#animated-border)" stroke-width="4">
-          <animate attributeName="stroke-dasharray" values="10,10;20,10;10,20;10,10" dur="2s" repeatCount="indefinite" />
-        </rect>
-        <defs>
-          <linearGradient id="animated-border" x1="0" y1="0" x2="1" y2="1">
-            <stop offset="0%" stop-color="#0A66C2" />
-            <stop offset="100%" stop-color="#38BDF8" />
-          </linearGradient>
-        </defs>
-      </svg>
-    </div>
-    <div style="position: relative; z-index: 1; display: flex; align-items: center; gap: 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn Logo" style="background: white; border-radius: 8px;" />
-      <a href="https://www.linkedin.com/in/tushartak" target="_blank">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Connect+with+me+on+LinkedIn!;Let's+grow+our+network+%F0%9F%91%8B" alt="Connect with me on LinkedIn!" />
-      </a>
-    </div>
-  </div>
-</div>
+
 
 <!-- LinkedIn Connect Box (GitHub compatible) -->
 
