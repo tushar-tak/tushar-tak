@@ -21,12 +21,6 @@
   </a>
 </div>
 
-<!-- LinkedIn animated typing banner -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/tushartak" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Connect+with+me+on+LinkedIn!;Let's+grow+our+network+%F0%9F%91%8B" alt="Connect with me on LinkedIn!" />
-  </a>
-</p>
 
 <!-- Modern view counter -->
 <p align="center">
