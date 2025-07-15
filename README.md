@@ -3,6 +3,8 @@
 <!-- Modern gradient typing header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tushar+Tak;Software+Engineer;Developer+%7C+AI+Enthusiast" alt="Typing Header" />
 
+
+
 <!-- Minimalist badge links with hover effects -->
 <div align="center" style="margin: 20px 0;">
   <a href="https://tushartak.works" target="_blank">
