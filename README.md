@@ -81,7 +81,7 @@ graph TD
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:tushartakofficial@gmail.com"> <img src="https://img.shields.io/badge/Email-0F172A?style=flat&logo=gmail&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a>
+  <a href="mailto:tushartak.work@gmail.com"> <img src="https://img.shields.io/badge/Email-0F172A?style=flat&logo=gmail&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a>
   <a href="https://tushartak.works"> <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat&logo=firefox&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a>
   <a href="https://www.linkedin.com/in/tushartak"> <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a>
   <a href="https://github.com/tushar-tak"> <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat&logo=github&logoColor=38BDF8&labelColor=0F172A" height="28"/> </a>
