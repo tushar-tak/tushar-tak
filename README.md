@@ -33,7 +33,7 @@ graph TD
     B --> B2[Ex-SDE Intern at Adtric Solutions]
     A --> C[Curriculum]
     C --> C1[Google Arcade Facilitator 2024-2025]
-    C --> C2[Microsoft Ambassador 2024-2025]
+    C --> C2[Microsoft Ambassador  2024-2025]
 ```
 
 👋 Hi, I'm Tushar Tak, a passionate Software Engineer and Full Stack Developer.
