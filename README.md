@@ -26,14 +26,21 @@
 ## 🚀 About Me
 
 ```mermaid
-graph LR
-    A[Portfolio] --> B[Full Stack Development]
-    B --> C[Web Apps]
-    B --> D[APIs]
-    B --> E[Cloud]
-    C --> F[React, Next.js]
-    D --> G[Node.js, Express]
-    E --> H[AWS, Docker]
+graph TD
+    A[Tushar Tak]
+    A --> B[Experience]
+    B --> B1[SWE Intern at Zodiac Solutions]
+    B --> B2[Ex-SDE Intern at Adtric Solutions]
+    A --> C[Curriculum]
+    C --> C1[Google Arcade Facilitator (2024-2025)]
+    C --> C2[Microsoft Ambassador (2024-2025)]
+    A --> D[Full Stack Development]
+    D --> D1[Web Apps]
+    D --> D2[APIs]
+    D --> D3[Cloud]
+    D1 --> D1a[React, Next.js]
+    D2 --> D2a[Node.js, Express]
+    D3 --> D3a[AWS, Docker]
 ```
 
 👋 Hi, I'm Tushar Tak, a passionate Software Engineer and Full Stack Developer.
