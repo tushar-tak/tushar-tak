@@ -1,4 +1,4 @@
-## 🌐 Connect With Me
+## 🚀 About Me
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 </div>
 
-## 🚀 About Me
+
 
 ```mermaid
 graph TD
