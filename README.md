@@ -10,10 +10,18 @@
 <!-- Minimalist badge links with hover effects -->
 <div align="center" style="margin: 20px 0;">
   <a href="https://tushartak.works" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat&logo=firefox&logoColor=38BDF8&labelColor=0F172A" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat&logo=firefox&logoColor=38BDF8&labelColor=0F172A" alt="Main-Portfolio" />
   </a>
-  <a href="https://tushar-tak.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Old%20Portfolio-0F172A?style=flat&logo=firefox&logoColor=38BDF8&labelColor=0F172A" alt="Old Portfolio" />
+  <a href="https://2d-portfolio-tushar-tak.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Old%20Portfolio-0F172A?style=flat&logo=firefox&logoColor=38BDF8&labelColor=0F172A" alt="2D Portfolio" />
+  </a>
+  
+  <a href="https://3d-portfolio-tushar-tak.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Old%20Portfolio-0F172A?style=flat&logo=firefox&logoColor=38BDF8&labelColor=0F172A" alt="3D Portfolio" />
+  </a>
+  
+  <a href="https://car-portfolio-tushar-tak.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Old%20Portfolio-0F172A?style=flat&logo=firefox&logoColor=38BDF8&labelColor=0F172A" alt="CAR Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/tushartak" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" alt="LinkedIn" />
